@@ -43,6 +43,8 @@ The following platforms are supported:
 | Android     | 4.0             |        |
 | Windows     | Windows 8       |        |
 | Mac         |                 |        |
+| Linux       |                 | ![[Travis continuous integration builds on Linux](https://lgtm.com/projects/g/rhdunn/espeak/context:cpp"><img src="https://img.shields.io/lgtm/grade/cpp/g/rhdunn/espeak.svg?logo=lgtm&logoWidth=18" alt="Code Quality: Cpp" height="18"></a>
+| Linux       |                 | ![[Travis continuous integration builds on Linux](https://lgtm.com/projects/g/rhdunn/espeak/alerts"><img src="https://img.shields.io/lgtm/alerts/g/rhdunn/espeak.svg?logo=lgtm&logoWidth=18" alt="Total Alerts" height="18"></a>
 
 ## Windows
 
